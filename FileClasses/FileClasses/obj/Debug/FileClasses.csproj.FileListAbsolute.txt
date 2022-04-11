@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\FileClasses\FileClasses\bin\Debug\FileClasses.exe.config
+C:\Users\Hp\source\repos\FileClasses\FileClasses\bin\Debug\FileClasses.exe
+C:\Users\Hp\source\repos\FileClasses\FileClasses\bin\Debug\FileClasses.pdb
+C:\Users\Hp\source\repos\FileClasses\FileClasses\obj\Debug\FileClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\FileClasses\FileClasses\obj\Debug\FileClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\FileClasses\FileClasses\obj\Debug\FileClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FileClasses\FileClasses\obj\Debug\FileClasses.exe
+C:\Users\Hp\source\repos\FileClasses\FileClasses\obj\Debug\FileClasses.pdb
